@@ -1,0 +1,1 @@
+This repository contains a collection of machine learning and data science projects designed to expand practical modeling skills across different domains, including time series analysis and deep learning. Each project focuses on end-to-end workflows, including data preprocessing, feature engineering, model development, and evaluation.
